@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 This is an example text file. It currently has one line.
 This is the second line. Again.
 And the third.
+=======
+>>>>>>> parent of 3547ed8... Added a new line
